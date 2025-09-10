@@ -1,0 +1,1 @@
+export const FIREBASE_URL = "https://blog-app-52842-default-rtdb.firebaseio.com";
